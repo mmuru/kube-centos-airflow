@@ -4,3 +4,4 @@ build/*
 *.csv
 logs/*
 .DS_Store
+work/*
